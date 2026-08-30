@@ -1,0 +1,6 @@
+ID Name Department Role Salary Joindate
+101 Alice Sales Manager 85000 2020-03-15
+102 Bob Engineering Developer 92000 2019-07-22
+103 Charlie Engineering DevOps 105000 2021-01-10
+104 David Sales Analyst 76000 2022-05-30
+105 Eve Marketing Specialist 81000 2020-11-01
